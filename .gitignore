@@ -1,0 +1,17 @@
+*
+# whitelist - managed by project_manager.py
+# DO NOT track ip_repo - contains submodules
+ip_repo/
+
+!.gitignore
+!README.md
+!project_manager_shortcut.py
+!test_vivaado_manager.tcl
+
+# ip_export - custom IP cores
+!ip_export/
+!ip_export/**
+
+# user_files - user documentation and files
+!user_files/
+!user_files/**

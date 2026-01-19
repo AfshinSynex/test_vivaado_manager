@@ -3,6 +3,10 @@
 # DO NOT track ip_repo - contains submodules
 ip_repo/
 
+# GitHub Actions workflows
+!.github/
+!.github/**
+
 !.gitignore
 !README.md
 !project_manager_shortcut.py

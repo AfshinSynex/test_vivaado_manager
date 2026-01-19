@@ -4,7 +4,7 @@
 ### Clone this project
 
 ```sh
-git clone --recursive <this-repo-url>
+git clone --recursive git@github.com:AfshinSynex/test_vivaado_manager.git
 cd test_vivaado_manager
 python project_manager_shortcut.py
 # Select option 2 to recreate the Vivado project

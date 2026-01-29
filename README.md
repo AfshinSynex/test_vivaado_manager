@@ -1,3 +1,5 @@
+📋 **Binary Identification Registers** : Version = `0x76000102` | Hash = `0xD740A04A`
+
 # test_vivaado_manager
 [//]: # (AI INSTRUCTIONS: Review the project files to understand the main purpose and replace this comment with a 2-3 sentence summery of the purpose and functionality of this Vivado FPGA project. update the git clone command below with the actual repository URL if you have access.)
 
